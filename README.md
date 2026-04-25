@@ -17,6 +17,20 @@ The rapid advancement of Generative Adversarial Networks (GANs) continues to cha
 
 ![ASBW position ablation results](result.png)
 
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{nguyen2026asbw,
+    title      = {ASBW: A Frequency-Domain Analysis Approach for Distinguishing GAN-Generated Images from Real Images},
+    author     = {Quang Huy Nguyen and Van Huy Pham},
+    booktitle  = {In Proceeding of the Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference},
+    year       = {2026},
+    pages      = {95-105}
+}
+```
+
 ## Contact
 
 - Quang Huy Nguyen: nguyenquanghuy.st@tdtu.edu.vn
