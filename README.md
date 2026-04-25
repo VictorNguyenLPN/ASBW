@@ -3,7 +3,7 @@
 **Quang Huy Nguyen and Van Huy Pham**
 
 ## News
-
+* **[03/2026]** Our presentation achieved the Outstanding Presentation Award.
 * **[01/2026]** This research was accepted and selected for an oral presentation at The Digital Convergence in Economics, Society and Technology (DCEST 2026).
 
 ## Abstract
