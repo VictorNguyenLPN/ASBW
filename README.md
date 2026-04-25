@@ -24,7 +24,7 @@ If you find this work useful, please cite:
 ```bibtex
 @inproceedings{nguyen2026asbw,
     title      = {ASBW: A Frequency-Domain Analysis Approach for Distinguishing GAN-Generated Images from Real Images},
-    author     = {Quang Huy Nguyen and Van Huy Pham},
+    author     = {Nguyen, Quang Huy and Pham, Van Huy},
     booktitle  = {In Proceeding of the Digital Convergence in Economics, Society and Technology (DCEST) 2026 International Conference},
     year       = {2026},
     pages      = {95-105}
